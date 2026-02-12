@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+.streamlit/secrets.toml
+.env
 __pycache__/
 *.py[codz]
 *$py.class
