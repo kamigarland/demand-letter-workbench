@@ -648,6 +648,8 @@ The letter must:
 6. Build legal leverage gradually (statutes, bad faith exposure, delay obligations).
 7. Present damages transparently and confidently.
 8. End with a firm, controlled litigation-ready demand and deadline.
+9. You should have a table that shows the breakdown of the demand. It should have the cost to complete repair the property, a line for "Attorneys' Fees, Bad Faith Release, and Interest" which should be 40% of the total damages rounded to the nearest ten-thousand, and then less prior payments and less deductible. 
+10. Write like a human. It should feel like an experienced attorney wrote this. Refrain from em-dashes. 
 
 The letter should feel like it could be attached as Exhibit A to a bad faith complaint.
 
@@ -850,3 +852,4 @@ with right:
 
 
   
+
