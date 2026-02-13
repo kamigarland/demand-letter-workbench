@@ -625,38 +625,37 @@ Use ONLY the Case Fact Packet below. Do not invent facts, policy language, statu
 
 Tone: {tone}
 
-Write ONLY the letter body and address block (do NOT include letterhead, date line, or signature).
+You are a senior first-party property insurance attorney drafting a final pre-litigation demand.
 
-Writing requirements:
-draft a litigation-ready demand letter that:
+Your writing style must mirror the following characteristics:
 
-• Reads as though it will be attached as Exhibit A to a bad faith complaint.
-• Uses a factual chronology.
-• Highlights elapsed time between claim events where applicable.
-• Ties each denial reason directly to policy language and facts.
-• Avoids emotional rhetoric or exaggeration.
-• Avoids fabricated statutes or case law.
-• Demonstrates that the insured is prepared to file suit immediately.
+• Reads as a cohesive narrative, not a segmented report.
+• Transitions naturally between factual background, coverage analysis, and damages.
+• Avoids bullet-point lists unless absolutely necessary.
+• Escalates tone gradually from factual to firm to litigation-ready.
+• Embeds statutory and policy authority seamlessly within paragraphs.
+• Applies pressure through chronology and delay where supported by facts.
+• Avoids robotic section headings.
+• Avoids checklist-style structure.
 
-Structure:
+The letter must:
 
-Opening – Professional but firm. This part should basically just say "As you know, we represent the claim for the claim. This is our final demand for payment before suit is filed." but obviously worded much stronger than that. 
-Factual Chronology – Date-based narrative. This should read like a story, not a dramatic timeline. Ex: ON April 2, 2025 a water loss occured at the property. On April 1, 2025, the Insureds filed a claim. On April 4, 2025 the Company denied it. Only include the most important date, like the loss date, the date of inspection, the date of denial. Use judgement to make it flow and state the facts. These should be in the same paragraph, or in maximum two paragraphs highlighting the events.
-Coverage Analysis – This is where you should mention the Company's basis for the denial. Why is the company's denial wrongful?
-Carrier Errors – Methodical dismantling. Talk about why their argument for a denial is incorrect. 
-Damages – Transparent calculation. If there are Additional Living Expenses, mention them. If there are not, do not mention it at all.
-Demand – Make a table showcasing the total demand sought. It should include the highest dollar amount estimate, any other additional expenses (such as ALE, if relevant. If not do not mention), and then "Attorneys' Fees, Bad Faith, Interest, and Costs" which should be 40% of the damages claimed, rounded to the nearest ten-thousand. Do not explain the calculation for this in your letter, just add it to the table. Then it should be less prior payments and the deductible. Clear number and deadline.
+1. Open by grounding the reader in who the insured is, the property, and the covered loss.
+2. Establish the timeline of reporting, inspection, and payment.
+3. Contrast the carrier’s payment with the true scope required to restore the property.
+4. Explain technical scope differences clearly and persuasively (code compliance, matching, O&P, protective measures, trade coordination, etc. when supported by facts).
+5. Tie each denial or underpayment directly to policy language and factual reality.
+6. Build legal leverage gradually (statutes, bad faith exposure, delay obligations).
+7. Present damages transparently and confidently.
+8. End with a firm, controlled litigation-ready demand and deadline.
 
-These are the elements you should include in your letter, but it should read transitionally. It should not be choppy. You do not need to use headings for these sections, just use this as a general guide of how it should flow.
+The letter should feel like it could be attached as Exhibit A to a bad faith complaint.
 
-Tone:
-Professional = measured.
-Firm = confident.
-Aggressive Litigation-Ready = assertive, trial-prepared tone.
+Do not use bold text.
+Do not use unnecessary headings.
+Keep under 1800 words.
 
-Do not use bold formatting.
-Do not use headings.
-Keep under 1800 words. If the jurisdiction is Kentucky and bad faith exposure is supported by the facts, reference KRS 304.12-230 carefully and accurately. If it's another jurisdiction, find the relevant bad faith statutes to argue. Do not exaggerate penalties.
+Find the relevant Unfair Settlement Claims Practice Act for the jurisdiction and cite the statutes that the Company is breaking.
 Do not repeat information. It should be succinct while maintaining persuasiveness.
 
 End with the following paragraphs but replace bracketed items with the correct values from the fact sheet: Please send $[demand amount] in check payable to Denham Property and Injury Law Firm F.B.O. [client and PA if applicable] to 250 W. Main St., Suite #120, Lexington, Kentucky 40507 within 14 days. If payment is not received within 14 days we will immediately proceed with litigation seeking all available damages. Failure to do so within the time period provided will be used as further evidence of bad faith. 
@@ -848,5 +847,6 @@ with right:
 
     else:
         st.info("Draft a demand from the case packet to enable chat refinement + export.")
+
 
   
